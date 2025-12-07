@@ -3,7 +3,7 @@
 
 This project demonstrates complete Business Analytics (BA) using Microsoft Excel. The dataset contains business transactions such as orders, returns, shipping details, customers, sales, and profit information. The goal of this project is to analyze business performance, identify trends, locate problem areas, and generate meaningful insights for decision-making.
 
-#Dataset Overview
+# Dataset Overview
 
 The Excel file contains the following sheets:
 
@@ -34,7 +34,7 @@ Identifying loss-making products
 
 Operational metrics like Shipping Modes & Delivery Time
 
-🛠=# Tools & Techniques Used
+# Tools & Techniques Used
 
 Excel Functions: VLOOKUP/XLOOKUP, IF, SUMIFS, COUNTIFS, DATE formulas
 
